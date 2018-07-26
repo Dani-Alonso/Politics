@@ -1,0 +1,27 @@
+.Logo img {
+    width: 220px;
+
+}
+
+.totalCheckbox {
+
+    flex-direction: row;
+}
+
+.dropdown {
+
+    justify-content: flex-end;
+
+}
+
+
+.divText {
+
+    padding: 25px;
+}
+
+.divBody{
+    
+    width: 1100px;
+    margin: auto;
+}
